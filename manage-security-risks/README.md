@@ -8,4 +8,4 @@ For my portfolio activity, I conducted a security audit for a fictional company 
 
 Module 3 of the course went in-depth about logs and SIEM tools, where I became familiar with industry-leading SIEM tools like Splunk (Splunk Cloud and Splunk Enterprise) and Google's Chronicle.
 
-Finally, I practiced using a playbook to respond to a security incident.
+Finally, I practiced using a playbook to respond to a security incident, and completed the course with a grade of 97.03%%.
