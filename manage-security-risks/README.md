@@ -1,4 +1,4 @@
-Like the first course of the program, the second course—"Play it Safe: Manage Security Risks"—was segmented into four modules.
+Like the first course of the program, the second course—"Play it Safe: Manage Security Risks"—was also segmented into four modules.
 
 The first module focused on security frameworks and controls, where I learned more about the CIA triad and the eight CISSP domains. I learned how to use the CIA (Confidentiality, Integrity, and Availability) to protect an organization and did some labs on using the triad in a workplace situation.
 
